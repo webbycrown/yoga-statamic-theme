@@ -1,0 +1,19 @@
+full_name: 'test monoc'
+email: himedow536@jarars.com
+phone_number: '+23 2698 364511'
+gender: female
+date_of_birth: '2024-12-11'
+street_address: test
+country: india
+state: gujarat
+city: surat
+pin_code: ertet
+class_type: hatha
+trainer: jessica
+class_date: 'Monday, July 22, 2025'
+time_slot: morning_6
+intensity: intensity
+experience: experience
+payment: upi
+plan: essence_plan
+gateway: g-pay

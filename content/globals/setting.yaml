@@ -1,0 +1,17 @@
+title: Setting
+data:
+  favicon: image/favicon.png
+  logo: image/main-logo-black.svg
+  white_logo: image/main-logo-white.svg
+  header_select: header-two
+  footer_select: footer
+  blog_banner_title: 'Evening Flow for Better Sleep'
+  blog_banner_description: 'Unwind your day with calming sequences that relax the body and quiet the mind. Let each movement ease you into restful sleep—gentle, slow, and intentional.'
+  class_banner_title: 'Explore Hatha Yoga'
+  class_banner_description: 'Experience yoga that meets you where you are-grounded, mindful, and accessible. Each Hatha class is thoughtfully designed to balance body and breath, calm the mind, and build a strong, steady foundation for your practice.'
+  event_banner_title: 'Balance & Core Workshop'
+  event_banner_description: 'Strengthen your foundation and find your center in this focused workshop. Designed for all levels, the session blends balance-enhancing postures with deep core engagement practices.'
+  retreat_banner_title: 'Retreat Detail'
+  retreat_banner_description: 'From gentle stretches to dynamic flows, our diverse classes are designed to match your needs. Find your pace, your practice, and your peace-on your terms.'
+  class_category_banner_title: 'Balance & Core Workshop'
+  class_category_banner_description: 'Strengthen your foundation and find your center in this focused workshop. Designed for all levels, the session blends balance-enhancing postures with deep core engagement practices.'

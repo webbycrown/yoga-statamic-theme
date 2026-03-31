@@ -1,0 +1,24 @@
+full_name: viwac
+email: himedow536@jarars.com
+phone_number: '+23 2698 364511'
+gender: female
+date_of_birth: '2024-12-11'
+street_address: tets
+country: india
+state: gujarat
+city: surat
+pin_code: '5654'
+class_type: hatha
+trainer: jessica
+class_date: 'Monday, July 22, 2025'
+time_slot: morning_6
+intensity: intensity
+experience: experience
+notes: notes
+payment: upi
+coupon: coupon
+plan: essence_plan
+price: '34.65'
+gateway: phone-pay
+agree_terms:
+  - 'on'

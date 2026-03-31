@@ -1,0 +1,23 @@
+<script src="{{ theme:asset src='assets/js/jquery.min.js' }}?v={{ now format="YmdHis" }}" ></script>
+    <script src="{{ theme:asset src='assets/js/jquery.magnific-popup.min.js' }}?v={{ now format="YmdHis" }}" ></script>
+    <script src="{{ theme:asset src='assets/js/swiper-bundle.min.js' }}?v={{ now format="YmdHis" }}" ></script>
+    <script src="{{ theme:asset src='assets/js/custom.js' }}?v={{ now format="YmdHis" }}" ></script>
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/js/all.min.js"></script>
+
+    
+    <script defer>
+        AOS.init({
+            offset: 60,
+        });
+    </script>
+
+    <script>
+        const blogSearchUrl = "{{ route:blog.search }}";
+        const headerSearch = "{{ route:header.search }}";
+        const currentPage = '{{ segment_1 }}';
+        const classesSearchUrl = "{{ route:classes.search }}";
+        const newsLetterUrl = "{{ route:newsLetter }}";
+        const D_WHITE_LOGO = "{{ setting }}{{ white_logo }}{{ url }} {{ /white_logo }}{{ /setting }}";
+        const D_BLACK_LOGO = "{{ setting }}{{ logo }}{{ url }} {{ /logo }}{{ /setting }}";
+    </script>

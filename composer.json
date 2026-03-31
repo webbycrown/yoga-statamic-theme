@@ -1,0 +1,9 @@
+{
+    "name": "webbycrown/yoga-statamic-theme",
+    "extra": {
+        "statamic": {
+            "name": "Yoga - Statamic Theme",
+            "description": "A Statamic starter kit for yoga studios and wellness practitioners, featuring classes, retreats, podcasts, and a serene, modern layout with intuitive content management."
+        }
+    }
+}

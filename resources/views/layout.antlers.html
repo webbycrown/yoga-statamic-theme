@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{ partial:header-link }}
+
+<body>
+    <!-- ====== Main-Content ====== -->
+    <main class="h-full">
+        <!-- ====== Header ====== -->
+        <div class="bg_body_box fixed inset-0 w-full h-full backdrop-blur-xl bg-primary/35 z-50"></div>
+
+           <!-- ====== Header ====== -->
+           {{ setting }}
+           {{ partial:{{ header_select }} }}
+           {{ /setting }}
+
+           {{ template_content }}
+
+           <!-- ====== Footer ====== -->
+           {{ setting }}
+           {{ partial:{{ footer_select }} }}
+           {{ /setting }}
+           <!-- ====== End Footer ====== -->
+           {{ partial:footer-link }}
+
+    </main>
+</body>
+</html>

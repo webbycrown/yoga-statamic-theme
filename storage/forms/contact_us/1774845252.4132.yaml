@@ -1,0 +1,6 @@
+full_name: viwac
+email: admin@example.com
+phone_number: '+23 2698 364511'
+comment: test
+condition:
+  - 'on'
