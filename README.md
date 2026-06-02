@@ -91,5 +91,5 @@ statamic new my-site webbycrown/yoga-statamic-theme
 
 ---
 <div align="center">
-  <strong>Made with ❤️ by <a href="https://webbycrown.com">WebbyCrown</a></strong>
+  <strong>Made with ❤️ by <a href="https://www.webbycrown.com/custom-statamic-development-services-company/">WebbyCrown Solutions</a></strong>
 </div>
