@@ -4,6 +4,7 @@
   "description": "A Statamic starter kit for yoga studios and wellness practitioners, featuring classes, retreats, podcasts, and a serene, modern layout with intuitive content management.",
   "require": {
     "statamic/cms": "*"
+    
   },
   "extra": {
     "statamic": {
