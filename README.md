@@ -2,6 +2,9 @@
 
 At Yoga Statamic, we offer a serene and professional website for yoga studios and wellness practitioners, built using Statamic CMS. Designed with tranquility and ease of use in mind, the Yoga starter kit makes it simple to showcase classes, retreats, podcasts, and more through a modern layout and intuitive content management.
 
+**Live demo:** https://yoga-statamic.webbydemo.in/  
+Control Panel: `/cp` — `admin@example.com` / `password`
+
 ## Pages of Yoga
 
 The Yoga starter kit includes a comprehensive set of pages to cover all wellness studio needs:
