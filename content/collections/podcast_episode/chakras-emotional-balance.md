@@ -5,7 +5,7 @@ title: 'Chakras & Emotional Balance'
 description: 'An accessible exploration of the chakra system and how it relates to emotional well-being.'
 duration: '17 minutes'
 host_name: 'Naomi Ellis'
-image: image/podcast-video-1.webp
+image: image/chakras-emotional-balance.webp
 podcast_video: video/podcast-video-1.mp4
 episode_number: 'Episode 1'
 platforms:

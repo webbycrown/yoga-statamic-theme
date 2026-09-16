@@ -1,9 +1,10 @@
 title: Page
 tabs:
   main:
-    display: Main
+    display: Page
     sections:
       -
+        display: Content
         fields:
           -
             handle: title
@@ -12,28 +13,22 @@ tabs:
               required: true
               validate:
                 - required
+      -
+        display: Theme sections
+        instructions: Every marketing page uses the same Page template. Add any section here and drag to reorder. Book class and 404 keep dedicated templates.
+        fields:
           -
-            handle: content
-            field:
-              type: markdown
-              display: Content
-              localizable: true
-          -
-            handle: author
-            field:
-              type: users
-              display: Author
-              default: current
-              localizable: true
-              max_items: 1
+            import: all_page_builder
+      -
+        display: Page chrome
+        fields:
           -
             handle: template
             field:
               type: template
               display: Template
-              localizable: true
-          -
-            import: all_page_builder
+              default: page
+              instructions: Marketing pages use page. Keep book-class for booking and 404 for the error page.
   sidebar:
     display: Sidebar
     sections:
@@ -45,3 +40,11 @@ tabs:
               type: slug
               localizable: true
               validate: 'max:200'
+  seo:
+    display: SEO
+    sections:
+      -
+        display: Search and social
+        fields:
+          -
+            import: seo

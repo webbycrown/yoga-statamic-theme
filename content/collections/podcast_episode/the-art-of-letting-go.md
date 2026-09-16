@@ -5,7 +5,7 @@ title: 'The Art of Letting Go'
 description: 'A discussion on releasing tension—both physically and emotionally—to create space for growth.'
 duration: '28 minutes'
 host_name: 'Naomi Ellis'
-image: image/podcast-video-7.webp
+image: image/the-art-of-letting-go.webp
 podcast_video: video/podcast-video-7.mp4
 episode_number: 'Episode 7'
 platforms:

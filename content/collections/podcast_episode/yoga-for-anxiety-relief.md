@@ -5,7 +5,7 @@ title: 'Yoga for Anxiety Relief'
 description: 'Breath, movement, and mindset techniques to ease the nervous system.'
 duration: '17 minutes'
 host_name: 'Naomi Ellis'
-image: image/podcast-video-13.webp
+image: image/yoga-for-anxiety-relief.webp
 podcast_video: video/podcast-video-5.mp4
 episode_number: 'Episode 13'
 platforms:

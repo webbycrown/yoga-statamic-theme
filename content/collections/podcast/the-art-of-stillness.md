@@ -5,7 +5,7 @@ title: 'The Art of Stillness'
 description: 'Discover the peaceful power of stillness and how moments of quiet can help calm your mind and center your emotional energy.'
 duration: '22 minutes'
 artist_name: 'Priya Kapoor'
-image: image/podcast-5.webp
+image: image/the-art-of-stillness.webp
 updated_by: d1ab7694-ce2d-4bf5-a018-2865539ee02e
 updated_at: 1772771522
 audio: audio/health.mp3

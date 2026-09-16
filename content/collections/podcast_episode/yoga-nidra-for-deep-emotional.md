@@ -5,7 +5,7 @@ title: 'Yoga Nidra for Deep Emotional'
 description: 'Discover the restorative power of yogic sleep and subconscious healing.'
 duration: '20 minutes'
 host_name: 'Priya Sharma'
-image: image/podcast-video-12.webp
+image: image/yoga-nidra-for-deep-emotional.webp
 podcast_video: video/podcast-video-4.mp4
 episode_number: 'Episode 12'
 platforms:

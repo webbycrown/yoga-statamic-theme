@@ -5,7 +5,7 @@ title: 'Meditation & Emotional Awareness'
 description: 'Learn how to observe your feelings with compassion and clarity.'
 duration: '20 minutes'
 host_name: 'Priya Sharma'
-image: image/podcast-video-16.webp
+image: image/meditation-emotional-awareness.webp
 podcast_video: video/podcast-video-8.mp4
 episode_number: 'Episode 16'
 platforms:

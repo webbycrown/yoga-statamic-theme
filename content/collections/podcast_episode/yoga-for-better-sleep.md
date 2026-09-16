@@ -5,7 +5,7 @@ title: 'Yoga for Better Sleep'
 description: 'Gentle stretches, breathing practices, and relaxation tips to improve sleep quality.'
 duration: '17 minutes'
 host_name: 'Naomi Ellis'
-image: image/podcast-video-5.webp
+image: image/yoga-for-better-sleep.webp
 podcast_video: video/podcast-video-5.mp4
 episode_number: 'Episode 5'
 platforms:

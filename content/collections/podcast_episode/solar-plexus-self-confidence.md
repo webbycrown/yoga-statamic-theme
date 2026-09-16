@@ -5,7 +5,7 @@ title: 'Solar Plexus & Self-Confidence'
 description: 'How this energy center empowers your sense of self and personal power.'
 duration: '20 minutes'
 host_name: 'Priya Sharma'
-image: image/podcast-video-6.webp
+image: image/solar-plexus-self-confidence.webp
 podcast_video: video/podcast-video-6.mp4
 episode_number: 'Episode 6'
 platforms:

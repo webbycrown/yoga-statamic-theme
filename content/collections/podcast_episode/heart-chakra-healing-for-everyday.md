@@ -5,7 +5,7 @@ title: 'Heart Chakra Healing for Everyday'
 description: 'Simple ways to open to love, compassion, and emotional connection.'
 duration: '20 minutes'
 host_name: 'Priya Sharma'
-image: image/podcast-video-8.webp
+image: image/heart-chakra-healing-for-everyday.webp
 podcast_video: video/podcast-video-8.mp4
 episode_number: 'Episode 8'
 platforms:

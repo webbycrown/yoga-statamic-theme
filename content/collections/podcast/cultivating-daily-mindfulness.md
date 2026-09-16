@@ -5,7 +5,7 @@ title: 'Cultivating Daily Mindfulness'
 description: 'Learn simple, effective ways to integrate mindfulness into your everyday routine—on and off the mat.'
 duration: '22 minutes'
 artist_name: 'Jessica Moore'
-image: image/podcast-1.webp
+image: image/cultivating-daily-mindfulness.webp
 updated_by: d1ab7694-ce2d-4bf5-a018-2865539ee02e
 updated_at: 1772771486
 audio: audio/health-2.mp3

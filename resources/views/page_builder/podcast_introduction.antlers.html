@@ -28,8 +28,13 @@
                         data-aos="fade-left">
                         <div
                             class="overflow-hidden relative before:block before:content-[''] 2xl:before:pt-[83%] xl:before:pt-[98%] lg:before:pt-[110%] lt:before:pt-[115%] sm:before:pt-[56%] before:pt-[80%] h-full">
-                            {{ podcast_image }}<img decoding="async" src="{{ url }}" alt="Yoga"
-                                class="w-full h-full object-cover absolute top-0 left-0" /> {{ /podcast_image }}
+                            {{ if podcast_image:url }}
+                            <img decoding="async" src="{{ podcast_image:url }}?v=20260909f" alt="{{ title }}"
+                                class="w-full h-full object-cover absolute top-0 left-0" style="opacity:1;visibility:visible;" />
+                            {{ else }}
+                            <img decoding="async" src="/assets/image/tune-into-your-practice.webp?v=20260909f" alt="{{ title }}"
+                                class="w-full h-full object-cover absolute top-0 left-0" style="opacity:1;visibility:visible;" />
+                            {{ /if }}
                         </div>
                     </div>
                 </div>

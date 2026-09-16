@@ -5,7 +5,7 @@ title: 'Grounding Through the Root Chakra'
 description: 'Practice grounding techniques to feel stable, secure, and deeply connected to your body.'
 duration: '20 minutes'
 host_name: 'Priya Sharma'
-image: image/podcast-video-4.webp
+image: image/grounding-through-the-root-chakra.webp
 podcast_video: video/podcast-video-4.mp4
 episode_number: 'Episode 4'
 platforms:

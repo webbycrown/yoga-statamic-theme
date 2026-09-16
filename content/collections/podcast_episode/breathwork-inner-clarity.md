@@ -5,7 +5,7 @@ title: 'Breathwork & Inner Clarity'
 description: 'Use mindful breathing techniques to calm the mind, reduce stress, and enhance mental clarity.'
 duration: '20 minutes'
 host_name: 'Priya Sharma'
-image: image/podcast-video-2.webp
+image: image/breathwork-inner-clarity.webp
 podcast_video: video/podcast-video-2.mp4
 episode_number: 'Episode 2'
 platforms:

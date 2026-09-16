@@ -3,7 +3,7 @@ id: 99100c17-0a8d-41a6-9cb1-064cd938481e
 blueprint: page
 title: Membership
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
-template: membership
+template: page
 page_builder:
   -
     id: f1tLQso-D8N5dychRMsjL

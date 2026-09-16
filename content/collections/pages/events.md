@@ -3,7 +3,7 @@ id: 94e7590f-7e90-47bc-8e10-72bfa8a8f2fe
 blueprint: page
 title: Events
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
-template: events
+template: page
 page_builder:
   -
     id: QN5dCU5fRL4Z_0qsCWmIt

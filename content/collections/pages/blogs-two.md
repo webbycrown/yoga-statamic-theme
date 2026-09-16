@@ -3,7 +3,7 @@ id: c216a398-301b-42d4-931e-a3f69ee124a0
 blueprint: page
 title: 'Blogs Two'
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
-template: blog-two
+template: page
 page_builder:
   -
     id: ZRrQt6szHsfWdKcN4D69Z

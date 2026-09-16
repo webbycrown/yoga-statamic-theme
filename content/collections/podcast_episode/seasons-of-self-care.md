@@ -5,7 +5,7 @@ title: 'Seasons of Self-Care'
 description: 'Adapt your yoga and wellness habits to align with seasonal rhythms for better health and vitality.'
 duration: '28 minutes'
 host_name: 'Naomi Ellis'
-image: image/podcast-video-3.webp
+image: image/seasons-of-self-care.webp
 podcast_video: video/podcast-video-3.mp4
 episode_number: 'Episode 3'
 platforms:

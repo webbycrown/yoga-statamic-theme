@@ -1,3 +1,6 @@
+title: Yoga Theme
+user: webbycrown
+repo: webbycrown/yoga-statamic-theme
 export_paths:
   - routes
   - content

@@ -5,7 +5,7 @@ title: 'Sacral Chakra & Creative Flow'
 description: 'Reignite your joy and passion by connecting with this powerful center.'
 duration: '28 minutes'
 host_name: 'Naomi Ellis'
-image: image/podcast-video-15.webp
+image: image/sacral-chakra-creative-flow.webp
 podcast_video: video/podcast-video-7.mp4
 episode_number: 'Episode 15'
 platforms:

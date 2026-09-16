@@ -5,7 +5,7 @@ title: 'Events Two'
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
 updated_by: 168f9b30-7c09-4102-8bcf-0d25b450fef5
 updated_at: 1774328229
-template: events-two
+template: page
 page_builder:
   -
     id: rCyQQaCWVv4EvTDOtW1Pw

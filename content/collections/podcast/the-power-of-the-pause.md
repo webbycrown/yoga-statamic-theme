@@ -5,7 +5,7 @@ title: 'The Power of the Pause'
 description: 'Experience the power of mindful pauses and how choosing stillness before reacting can bring clarity, peace, and self-control.'
 duration: '20 minutes'
 artist_name: 'Meera Patel'
-image: image/podcast-13.webp
+image: image/the-power-of-the-pause.webp
 updated_by: d1ab7694-ce2d-4bf5-a018-2865539ee02e
 updated_at: 1772771531
 audio: audio/health.mp3

@@ -16,7 +16,7 @@ page_builder:
     main_heading: 'Tune Into Your Practice'
     description_one: 'Experience yoga, mindfulness, and wellness wherever life takes you—listen at your own pace, on your own time. Our thoughtfully curated podcast episodes are designed to inspire your body, calm your mind, and uplift your spirit, one conversation at a time.'
     description_two: 'Each episode blends practical teachings with heartfelt stories, offering you tools to bring more balance, clarity, and presence into your daily life. From guided meditations and yoga philosophy to holistic wellness tips and inspiring guest interviews, our podcast is your companion for mindful living—whether you’re commuting, practicing at home, or enjoying a quiet moment just for you.'
-    podcast_image: image/our-podcast.webp
+    podcast_image: image/tune-into-your-practice.webp
     type: podcast_introduction
     enabled: true
   -
@@ -41,5 +41,5 @@ page_builder:
     limit: 6
 updated_by: 168f9b30-7c09-4102-8bcf-0d25b450fef5
 updated_at: 1774328264
-template: podcast
+template: page
 ---

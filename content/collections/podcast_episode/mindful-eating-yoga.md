@@ -5,7 +5,7 @@ title: 'Mindful Eating & Yoga'
 description: 'Mindful Eating & Yoga'
 duration: '17 minutes'
 host_name: 'Naomi Ellis'
-image: image/podcast-video-9.webp
+image: image/mindful-eating-yoga.webp
 podcast_video: video/podcast-video-1.mp4
 episode_number: 'Episode 9'
 platforms:

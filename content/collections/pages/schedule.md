@@ -3,7 +3,7 @@ id: 3ef49edd-ebc5-4ac8-8b03-ea7dadabc6c4
 blueprint: page
 title: Schedule
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
-template: schedule
+template: page
 page_builder:
   -
     id: RHgOwPLwnWy1ci_kgyZjU

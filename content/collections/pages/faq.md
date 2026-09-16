@@ -18,5 +18,5 @@ page_builder:
     collections: faqs
     type: faq_section
     enabled: true
-template: faq
+template: page
 ---

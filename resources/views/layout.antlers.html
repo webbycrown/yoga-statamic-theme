@@ -4,25 +4,26 @@
 {{ partial:header-link }}
 
 <body>
-    <!-- ====== Main-Content ====== -->
+    <div id="yoga-preloader" class="yoga-preloader fixed inset-0 z-[99999] flex items-center justify-center bg-white transition-opacity duration-300">
+        {{ setting }}
+        {{ logo }}<img src="{{ url }}" alt="{{ site:name }}" class="max-h-16 w-auto" decoding="async" />{{ /logo }}
+        {{ /setting }}
+    </div>
+
     <main class="h-full">
-        <!-- ====== Header ====== -->
         <div class="bg_body_box fixed inset-0 w-full h-full backdrop-blur-xl bg-primary/35 z-50"></div>
 
-           <!-- ====== Header ====== -->
-           {{ setting }}
-           {{ partial:{{ header_select }} }}
-           {{ /setting }}
+        {{ setting }}
+        {{ partial:{{ header_select }} }}
+        {{ /setting }}
 
-           {{ template_content }}
+        {{ template_content }}
 
-           <!-- ====== Footer ====== -->
-           {{ setting }}
-           {{ partial:{{ footer_select }} }}
-           {{ /setting }}
-           <!-- ====== End Footer ====== -->
-           {{ partial:footer-link }}
+        {{ setting }}
+        {{ partial:{{ footer_select }} }}
+        {{ /setting }}
 
+        {{ partial:footer-link }}
     </main>
 </body>
 </html>

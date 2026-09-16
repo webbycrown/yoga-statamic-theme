@@ -3,7 +3,7 @@ id: 09398b19-b301-4b30-bb1c-4b42e08237d4
 blueprint: page
 title: Testimonials
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
-template: testimonials
+template: page
 updated_by: d1ab7694-ce2d-4bf5-a018-2865539ee02e
 updated_at: 1772453692
 page_builder:

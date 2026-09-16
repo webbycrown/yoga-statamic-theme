@@ -5,7 +5,7 @@ title: 'Energy Hygiene: Protecting Your Peace'
 description: 'Tools for clearing, grounding, and protecting your emotional energy.'
 duration: '28 minutes'
 host_name: 'Naomi Ellis'
-image: image/podcast-video-11.webp
+image: image/energy-hygiene-protecting-your-peace.webp
 podcast_video: video/podcast-video-3.mp4
 episode_number: 'Episode 11'
 platforms:

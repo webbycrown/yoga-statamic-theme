@@ -5,7 +5,7 @@ title: 'Mindful Digital Habits'
 description: 'Bring mindfulness into your digital life by creating space to pause, observe, and engage with screens more consciously and calmly.'
 duration: '18 minutes'
 artist_name: 'Alex Romero'
-image: image/podcast-16.webp
+image: image/mindful-digital-habits.webp
 audio: audio/health.mp3
 updated_by: d1ab7694-ce2d-4bf5-a018-2865539ee02e
 updated_at: 1772771500

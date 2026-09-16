@@ -3,7 +3,7 @@ id: b00be51f-be3a-41b4-802e-7789848f2f9b
 blueprint: page
 title: Retreats
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
-template: retreats
+template: page
 page_builder:
   -
     id: gSI8e_2cwPNXILu2RszHg

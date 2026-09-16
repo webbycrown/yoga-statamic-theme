@@ -5,7 +5,7 @@ title: 'Daily Rituals for Emotional Resilience'
 description: 'Small, intentional habits that build inner strength and calm.'
 duration: '20 minutes'
 host_name: 'Priya Sharma'
-image: image/podcast-video-14.webp
+image: image/daily-rituals-for-emotional-resilience.webp
 podcast_video: video/podcast-video-6.mp4
 episode_number: 'Episode 14'
 platforms:

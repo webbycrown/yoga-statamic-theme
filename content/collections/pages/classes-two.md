@@ -3,7 +3,7 @@ id: 1461f160-1163-4549-a000-bdc185319619
 blueprint: page
 title: 'Classes Two'
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
-template: classes-two
+template: page
 page_builder:
   -
     id: xpCYmOr4z0cup1icUKeuT

@@ -5,7 +5,7 @@ title: 'Moving Through Grief with Yoga'
 description: 'Gentle practices and reflections to support emotional release and healing.'
 duration: '20 minutes'
 host_name: 'Priya Sharma'
-image: image/podcast-video-10.webp
+image: image/moving-through-grief-with-yoga.webp
 podcast_video: video/podcast-video-2.mp4
 episode_number: 'Episode 10'
 platforms:

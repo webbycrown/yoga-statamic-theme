@@ -3,7 +3,7 @@ id: 028c573e-0279-4d7c-b945-aa30862864c5
 blueprint: page
 title: Classes
 author: d1ab7694-ce2d-4bf5-a018-2865539ee02e
-template: classes
+template: page
 page_builder:
   -
     id: io5Jod7i-_a0eIHwX-w7f

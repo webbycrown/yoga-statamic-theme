@@ -1,9 +1,14 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ title ?? site:name }}</title>
+    <title>{{ seo_title ?? title ?? site:name }}</title>
    {{ setting }}{{ favicon }} <link rel="icon" href="{{ url }}" />{{ /favicon }}{{ /setting }}
    <meta name="app-env" content="{{ config:app.env }}">
+   {{ if seo_description }}<meta name="description" content="{{ seo_description }}">{{ /if }}
+   {{ if seo_keywords }}<meta name="keywords" content="{{ seo_keywords }}">{{ /if }}
+   {{ if seo_robots }}<meta name="robots" content="{{ seo_robots }}">{{ /if }}
+   {{ if seo_canonical }}<link rel="canonical" href="{{ seo_canonical }}">{{ /if }}
+   {{ if seo_image }}{{ seo_image }}<meta property="og:image" content="{{ url }}">{{ /seo_image }}{{ /if }}
 
     <!-- <link rel="preload" href="{{ theme:asset src='assets/css/magnific-popup.min.css'}}?v={{ now format="YmdHis" }}" as="style"> -->
     <!-- <link rel="preload" href="{{ theme:asset src='assets/css/swiper-bundle.min.css'}}?v={{ now format="YmdHis" }}" as="style"> -->

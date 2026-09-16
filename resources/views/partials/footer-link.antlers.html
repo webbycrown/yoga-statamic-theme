@@ -20,4 +20,10 @@
         const newsLetterUrl = "{{ route:newsLetter }}";
         const D_WHITE_LOGO = "{{ setting }}{{ white_logo }}{{ url }} {{ /white_logo }}{{ /setting }}";
         const D_BLACK_LOGO = "{{ setting }}{{ logo }}{{ url }} {{ /logo }}{{ /setting }}";
+        window.addEventListener('load', function () {
+            var el = document.getElementById('yoga-preloader');
+            if (!el) return;
+            el.style.opacity = '0';
+            setTimeout(function () { el.style.display = 'none'; }, 300);
+        });
     </script>
