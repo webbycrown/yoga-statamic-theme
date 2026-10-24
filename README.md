@@ -1,6 +1,6 @@
 # Yoga - Statamic Starter Kit
 
-Yoga is a wellness and yoga-studio starter kit for Statamic 5. It is built for studios and practitioners that need a calm marketing site — classes, schedules, retreats, events, podcasts, team, membership, and inquiry forms.
+Yoga is a wellness starter kit for Statamic 5, and the main theme for five catalogues: class studio, fashion studio, restaurant, wedding planner, and construction. The install stays the yoga studio. One command swaps a catalogue's demo pages, photos, and palette.
 
 Visitors can browse offerings and send booking or contact inquiries. This kit is a marketing site. Class booking is a demo inquiry form, not a live payment or reservation gateway.
 
@@ -83,6 +83,33 @@ Site name, logos, phone, email, address, header/footer chrome selects, and relat
 - Class Comments
 
 Set each form’s email recipient in **CP → Forms** after install (defaults use `admin@example.com`). Extra forms beyond Statamic Core’s single form require Statamic Pro.
+
+## After install — choose a catalogue
+
+The files on disk start as the yoga studio. Run one command to apply a catalogue:
+
+```bash
+php please yoga:setup yoga
+# or: aurea | atelier | savor | vows | ridge
+```
+
+| Slug | Catalogue |
+| --- | --- |
+| `yoga` | Yoga studio (the main theme) |
+| `aurea` | Class studio |
+| `atelier` | Fashion studio |
+| `savor` | Restaurant |
+| `vows` | Wedding planner |
+| `ridge` | Construction |
+
+This sets the Setting catalogue, replaces demo entries, photos, and the palette, then refreshes the Stache. Saving the Catalogue field in the Control Panel does not swap files. The yoga studio uses the Page template. Each catalogue brings the templates its own demo pages use.
+
+Register the kit provider once after install (do not replace `AppServiceProvider`):
+
+```php
+// bootstrap/providers.php
+App\Providers\YogaServiceProvider::class,
+```
 
 ## Installation
 

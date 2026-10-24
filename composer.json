@@ -1,7 +1,7 @@
 {
   "name": "webbycrown/yoga-statamic-theme",
   "type": "statamic-starter-kit",
-  "description": "A Statamic starter kit for yoga studios and wellness practitioners, featuring classes, retreats, podcasts, and a serene, modern layout with intuitive content management.",
+  "description": "A Statamic starter kit for yoga studios, with catalogue packs for a class studio, fashion studio, restaurant, wedding planner, and construction firm.",
   "require": {
     "statamic/cms": "^5.0"
     

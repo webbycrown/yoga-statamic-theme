@@ -13,7 +13,7 @@
     <!-- <link rel="preload" href="{{ theme:asset src='assets/css/magnific-popup.min.css'}}?v={{ now format="YmdHis" }}" as="style"> -->
     <!-- <link rel="preload" href="{{ theme:asset src='assets/css/swiper-bundle.min.css'}}?v={{ now format="YmdHis" }}" as="style"> -->
     <!-- <link href="/assets/css/dist/output.css" rel="stylesheet"> -->
-     <link rel="stylesheet" href="/assets/css/dist/output.css?v={{ now format='His' }}">
+     <link rel="stylesheet" href="/assets/css/dist/output.css?v={{ setting:catalogue ?? 'yoga' }}">
     <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
     <link rel="preload" href="/assets/css/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -21,4 +21,14 @@
 
 
     <!-- style.css -->
+    <style>
+      .yoga-card-desc,
+      .vows-short-2,
+      .ridge-short-2 {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+      }
+    </style>
 </head>

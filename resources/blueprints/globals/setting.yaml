@@ -6,6 +6,36 @@ tabs:
       -
         fields:
           -
+            handle: catalogue
+            field:
+              options:
+                -
+                  key: yoga
+                  value: Yoga
+                -
+                  key: aurea
+                  value: 'Class studio'
+                -
+                  key: atelier
+                  value: 'Fashion studio'
+                -
+                  key: savor
+                  value: Restaurant
+                -
+                  key: vows
+                  value: 'Wedding planner'
+                -
+                  key: ridge
+                  value: Construction
+              default: yoga
+              type: select
+              display: Catalogue
+          -
+            handle: catalogue_label
+            field:
+              type: text
+              display: 'Catalogue label'
+          -
             handle: favicon
             field:
               container: assets

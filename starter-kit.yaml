@@ -5,6 +5,9 @@ export_paths:
   - routes
   - content
   - app/Http
+  - app/Console
+  - app/Support
+  - app/Providers/YogaServiceProvider.php
   - resources/blueprints
   - resources/fieldsets
   - resources/forms
