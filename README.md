@@ -93,16 +93,18 @@ php please yoga:setup yoga
 # or: aurea | atelier | savor | vows | ridge
 ```
 
-| Slug | Catalogue |
-| --- | --- |
-| `yoga` | Yoga studio (the main theme) |
-| `aurea` | Class studio |
-| `atelier` | Fashion studio |
-| `savor` | Restaurant |
-| `vows` | Wedding planner |
-| `ridge` | Construction |
+Open a demo to see that catalogue before you install it. Each link is the same layout with that niche's pages, photos, and palette.
 
-This sets the Setting catalogue, replaces demo entries, photos, and the palette, then refreshes the Stache. Saving the Catalogue field in the Control Panel does not swap files. The yoga studio uses the Page template. Each catalogue brings the templates its own demo pages use.
+| Slug | Catalogue | Demo | What the demo shows |
+| --- | --- | --- | --- |
+| `yoga` | Yoga studio | [yoga-statamic.webbydemo.in](https://yoga-statamic.webbydemo.in/) | The main theme. Hatha, vinyasa, and the other studio classes, plus schedule, retreats, events, podcast, team, and membership. |
+| `aurea` | Class studio | [aurea-statamic.webbydemo.in](https://aurea-statamic.webbydemo.in/) | Coaches, a weekly timetable, and class booking. Teal and gold. |
+| `atelier` | Fashion studio | [atelier-statamic.webbydemo.in](https://atelier-statamic.webbydemo.in/) | Looks, a lookbook, and booking. Burgundy and taupe. |
+| `savor` | Restaurant | [savor-statamic.webbydemo.in](https://savor-statamic.webbydemo.in/) | Menus, chefs, and reservations. Wine and linen. |
+| `vows` | Wedding planner | [vows-statamic.webbydemo.in](https://vows-statamic.webbydemo.in/) | Packages, ceremonies, and a booking calendar. Blush and gold. |
+| `ridge` | Construction | [ridge-statamic.webbydemo.in](https://ridge-statamic.webbydemo.in/) | Projects, a job schedule, and project inquiries. Rust and sand. |
+
+`php please yoga:setup` with one of those slugs sets the Setting catalogue and replaces the demo entries, photos, and palette, then refreshes the Stache. Saving the Catalogue field in the Control Panel does not swap files. The yoga studio uses the Page template. Each catalogue brings the templates its own demo pages use.
 
 Register the kit provider once after install (do not replace `AppServiceProvider`):
 
